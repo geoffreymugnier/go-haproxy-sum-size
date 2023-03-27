@@ -7,8 +7,8 @@ You're asking too many questions.
 
 # Build
 
-go build -o go_sum main.go
+`go build -o go_sum main.go`
 
 # Usage
 
-./go_sum /path/to/your/log/folder
+`./go_sum /path/to/your/log/folder`
