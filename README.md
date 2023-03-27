@@ -12,3 +12,6 @@ You're asking too many questions.
 # Usage
 
 `./go_sum /path/to/your/log/folder`
+
+# Rust version
+Right here : https://github.com/geoffreymugnier/rust-haproxy-logs-parser
